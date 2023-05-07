@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vitor Shimizu</h1>
 <h3 align="center">A passionate software engineering student from Brazil</h3>
-img align="right" alt="Coding" width="400" src=""
+img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1zgzISaYrnMAYRJJEr/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimijo&label=Profile%20views&color=0e75b6&style=flat" alt="shimijo" /> </p>
 
