@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vitorshimizzu@gmail.com**
 
-- ⚡ Fun fact **cat > dog**
+- ⚡ **cat > dog**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
