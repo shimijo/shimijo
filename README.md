@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying **Software Engineering**
 
-- 📫 How to reach me **vitorshimizzu@gmail.com**
+- 📫 How to reach me **shimizuvitor@gmail.com**
 
 - ⚡ **cat > dog**
 
